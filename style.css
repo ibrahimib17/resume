@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color:blue;
+    background-color:lightblue;
 }
 
 header {
     background-color:yellow;
-    color:blue;
+    color:lightblue;
     text-align: center;
     padding: 2rem 0;
     position: relative;
@@ -79,8 +79,8 @@ nav ul {
     footer{
         text-align: center;
         padding: 1rem 0;
-        background-color:blue;
-        color: yellow;
+        background-color:yellow;
+        color: blue;
 
     }
 
